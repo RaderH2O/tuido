@@ -1,0 +1,3 @@
+- [x] Do the dishes
+- [ ] Work on your todo app
+- [ ] Eat pizza
