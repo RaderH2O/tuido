@@ -1,4 +1,4 @@
-module raderh2o/tuido
+module github.com/raderh2o/tuido
 
 go 1.23.0
 
