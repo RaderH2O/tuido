@@ -24,6 +24,7 @@ Prerequisite:
 
 1. Run :
 ```shell
+go install
 go run .
 ```
 2. Enjoy!
@@ -35,6 +36,7 @@ Prerequisite:
 
 1. Run :
 ```shell
+go install
 go build .
 ```
 2. There should be an executable file in the same directory named `tuido`!
