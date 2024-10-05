@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
+	"github.com/raderh2o/tuido/todo"
+	"github.com/raderh2o/tuido/tutil"
 	"log"
 	"os"
-	"raderh2o/tuido/todo"
-	"raderh2o/tuido/tutil"
 
 	"golang.org/x/term"
 )

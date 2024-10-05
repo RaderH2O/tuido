@@ -5,10 +5,9 @@ import (
 	"fmt"
 	"log"
 	"os"
-	"raderh2o/tuido/fileoperations"
-	"raderh2o/tuido/todo"
-	"raderh2o/tuido/tutil"
-	// "strings"
+	"github.com/raderh2o/tuido/fileoperations"
+	"github.com/raderh2o/tuido/todo"
+	"github.com/raderh2o/tuido/tutil"
 )
 
 func main() {
